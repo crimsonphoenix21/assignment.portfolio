@@ -1,0 +1,70 @@
+
+
+.roboto-mono-normal {
+  font-family: "Roboto Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* shared styles */
+
+.dark-2 {
+    color: #0D1321;
+}
+
+.btn-primary{
+
+    background-color:  black;
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+    border: none;
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 35px;
+}
+
+.header {
+    background-image: url("../assets/assets/Hero-bg.png");
+    margin-top: 131px;
+}
+
+/* nav styles */
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 50px 150px;
+}
+
+nav ul li{
+    list-style: none;
+    margin-right: 50px;
+    
+}
+
+nav ul{
+    display: flex;
+}
+
+/* banner styles */
+
+.banner{
+    text-align: center;
+
+    
+}
+.banner-content {
+       
+       }
+    
+
+
+.banner-title{
+    font-weight: bolder;
+    font size: 90px;
+}
+
+/* header */
+
