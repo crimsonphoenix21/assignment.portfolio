@@ -13,6 +13,12 @@
     background: rgba(13, 19, 33, 0.02);
 }
 
+.secondary-bg-2{
+
+    background-image: url(../assets/handshake.jpg);
+    background-size: 100%;
+}
+
 .dark-2 {
     color: #0D1321;
 }
@@ -174,3 +180,21 @@ main{
 .bg-color-3{
     background-color: rgba(255, 223, 0, 0.05);
 }
+
+footer{
+     padding: 64px 48px;
+     display: flex;
+     flex-direction: column;
+     justify-content: flex-start;
+     align-items: flex-start;
+
+}
+
+.footer-column{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+}
+
