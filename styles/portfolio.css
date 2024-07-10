@@ -142,3 +142,35 @@ main{
     text-align: center;
 
 }
+
+.text-center{
+
+    text-align: center;
+}
+
+/* SKILLS SECTION STYLES */
+.current-target-section{
+    display: flex;
+    gap: 24px;
+    margin-top: 63px;
+    padding: 40px;
+   
+}
+
+.skill{
+    
+    
+}
+
+.bg-color-1{
+
+    background-color: rgba(255, 76, 30, 0.05);
+}
+
+.bg-color-2{
+    background-color: rgba(0, 76, 232, 0.05);
+}
+
+.bg-color-3{
+    background-color: rgba(255, 223, 0, 0.05);
+}
