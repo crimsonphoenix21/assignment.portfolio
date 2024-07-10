@@ -9,8 +9,26 @@
 
 /* shared styles */
 
+.secondary-bg{
+    background: rgba(13, 19, 33, 0.02);
+}
+
 .dark-2 {
     color: #0D1321;
+}
+
+.section-title{
+    font-size: 32px;
+    font-weight: 800;
+    color: rgb(13, 19, 33);
+}
+
+.section-description{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
 }
 
 .btn-primary{
@@ -68,3 +86,59 @@ nav ul{
 
 /* header */
 
+/* main styles */
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+/* why web dev styles */
+
+.why-web-dev{
+    border-radius: 16px;
+    padding: 80px 97px;
+    text-align: center;
+    margin-top: 74px;
+}
+
+/* web dev reason styles */
+.web-dev-reasons-main{
+
+   justify-content: center; 
+   display: block;
+   /* display: flex; */
+
+}
+
+.web-dev-reasons{
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    border-radius: 16px;
+    margin: 32px 0px;
+    
+}
+
+
+    
+ .reason-1{
+    text-align: left; 
+     display: block; 
+    
+ }   
+    
+    
+
+
+.reason-2{
+    text-align: right;
+    display: block;
+}
+
+
+/* my inspiration styles */
+
+.my-inspiration{
+
+    text-align: center;
+
+}
